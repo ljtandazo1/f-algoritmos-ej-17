@@ -1,2 +1,2 @@
 Ciclo Repetitivo
-Se repite una accion
+Nos permite repetir operaciones o acciones
