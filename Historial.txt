@@ -1,0 +1,69 @@
+ 1  echo "# f-algoritmos-ej-17" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+    6  git push -u origin master
+    7  git push -u origin master
+    8  echo "# f-algoritmos-ej-17" >> README.md
+    9  git init
+   10  git add README.md
+   11  git commit -m "first commit"
+   12  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+   13  git push -u origin master
+   14  git config --global user.mail "lismonta1996@gmail.com"
+   15  git config --global user.name "ljtandazo1"
+   16  git commit -m "first commit"
+   17  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+   18  git push -u origin master
+   19  echo "# f-algoritmos-ej-17" >> README.md
+   20  git init
+   21  git add README.md
+   22  git commit -m "first commit"
+   23  git config --global user.mail "lismonta1996@gmail.com"
+   24  git config --global user.name "Lisber"
+   25  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+   26  git push -u origin master
+   27  echo "# f-algoritmos-ej-17" >> README.md
+   28  git init
+   29  git add README.md
+   30  git commit -m "first commit"
+   31  git config --global user.email "lismonta1996@gmail.com"
+   32  git config --global user.name "Lisber"
+   33  echo "# f-algoritmos-ej-17" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+   38  git push -u origin master
+   39  git status
+   40  git status
+   41  git add Principal.txt
+   42  git commit -m -a "Ciclo Repetitivo"
+   43  git push
+   44  git commit -m -a"Ciclo Repetitivo"
+   45  git push
+   46  git status
+   47  git add Principal.txt
+   48  git commit -m -a"Ciclo Repetitivo"
+   49  git push
+   50  git push -origin maste
+   51  git status
+   52  git add Principal1.txt
+   53  git commit -m -a"Ciclo"
+   54  git push
+   55  echo "# f-algoritmos-ej-17" >> README.md
+   56  git init
+   57  git add README.md
+   58  git commit -m "first commit"
+   59  git remote add origin https://github.com/ljtandazo1/f-algoritmos-ej-17.git
+   60  git push -u origin master
+   61  git status
+   62  git add Principal.txt
+   63  git commit -m -a"Ciclo"
+   64  git push
+   65  git status
+   66  git add Principal.txt
+   67  git commit -a -m"CicloNuevo"
+   68  git push
+   69  history
